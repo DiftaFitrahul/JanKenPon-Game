@@ -1,4 +1,4 @@
-# flutter_application_cobasajaduku
+# flutter application JanKenPon Game
 
 A new Flutter project.
 
